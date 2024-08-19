@@ -96,8 +96,6 @@ header{
 }
 
 /* DIVISAO 3 */
-
-
 .container-2, .container-3{
     display: flex;
     flex-direction: row;
@@ -226,7 +224,6 @@ footer{
         gap: 20px;
     }
 
-    /* DIVISAO 1 */
     .container-1{
         width: 40%;
         margin: 0px 0px 0px 15vw;
